@@ -1,0 +1,40 @@
+{"mekanlar"[
+	{
+		"mekanId":1,
+		"mekanResim":"zafermuzesi",
+		"mekanAdi":"Zafer Müzesi",
+		"mekanIl":"İstanbul",
+		"mekanIlce":"Beyoğlu",
+		"mekanUlke":"Türkiye",
+		"geoLocation_latitude":"18.3456",
+		"geoLocation_longitude":"29.8488",
+		"mekanResimleri":[
+			{
+				"resim":"https://steemitimages.com/DQmakQjKWu5nJGVgxnRGUCs8TnW14ZZhYir7bGWwnAdLxsG/KurtulusSavasiMuzesi.jpg",
+			},
+			{
+				"resim":"https://cdn2.neredekal.com/hotel/2/92B/340x240/WKQP.jpg",
+			}
+		],
+		"mekanAciklama":"Sütlüce Mahallesi, İmrahor Caddesi 34445 Sütlüce Beyoğlu İstanbul"
+	},
+	{
+		"mekanId":2,
+		"mekanResim":"fotografmuzesi",
+		"mekanAdi":"İstanbul Forograg Muzesi",
+		"mekanIl":"İstanbul",
+		"mekanIlce":"Fatih",
+		"mekanUlke":"Türkiye",
+		"geoLocation_latitude":"18.3456",
+		"geoLocation_longitude":"29.8488",
+		"mekanResimleri":[
+			{
+				"resim":"https://seyahatdergisi.com/wp-content/uploads/2015/06/istanbul-Arkeoloji-Muzesi-681x309.jpg",
+			},
+			{
+				"resim":"https://assets.fodors.com/destinations/106051/istanbul-archaeology-museums-istanbul-turkey_main.jpg",
+			}
+		],
+		"mekanAciklama":"Türkiye'nin ilk fotoğraf müzesi Fatih Belediyesi ile Fotoğraf Dostları Derneği'nin işbirliğiyle kuruldu. İstanbul'un tarihi çehresinde özel bir yeri olan, ortaçağ zamanından kalma meydanının çevresindeki Mimar Sinan'ın anıtsal camileri ve sivil mimari örnekleriyle zengin, Bizans ve Osmanlı dönemlerinde sarayların ve seçkin yerleşimin yer aldığı, Sultanahmet yakınındaki Kadırga semtinde bulanan müze"
+	}
+]}
