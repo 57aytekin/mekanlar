@@ -1,0 +1,26 @@
+{"mekanlar":[
+	{
+		"mekanId":"1",
+		"mekanResim":"sultanahmet",
+		"mekanAdi":"Sultan Ahmet Camii",
+		"mekanIl":"İstanbul",
+		"mekanIlce":"Fatih",
+		"mekanUlke":"Türkiye",
+		"geoLocation_latitude":"18.3456",
+		"geoLocation_longitude":"29.8488",
+		"mekanResimleri":"",
+		"mekanAciklama":"17.Yüzyılın önemli eserinden biri olan Sultanahmet Camii, Sultan I.Ahmet’in emriyle dönemin asıl mimarı Sedefkar Mehmet Ağa tarafından Mimar Sinan’ın yapı anlayışı içinde inşa edilmiş bir şaheserdir. Yapımı 7,5 yıl süren camiinin yapımına 1609’da başlandı ve 1617’de tamamlandı."
+	},
+	{
+		"mekanId":"2",
+		"mekanResim":"ayasofya",
+		"mekanAdi":"Ayasofya Camii",
+		"mekanIl":"İstanbul",
+		"mekanIlce":"Fatih",
+		"mekanUlke":"Türkiye",
+		"geoLocation_latitude":"18.3456",
+		"geoLocation_longitude":"29.8488",
+		"mekanResimleri":"",
+		"mekanAciklama":"İlk olarak Bizans’ın İmparatoru Büyük Konstantin tarafından inşası başlatılan yapı, Büyük Constantin’in oğlu II. Constantius tarafından tamamlanmış. 360 yılında açılışı gerçekleştirilen kiliseye Büyük Kilise anlamına gelen Megali Ekklesiya adı verilmiş. "
+	}
+]}
